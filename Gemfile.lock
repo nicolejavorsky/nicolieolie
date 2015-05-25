@@ -1,6 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  ruby '2.0.0'
+  ruby '2.2.0'
   specs:
     kgio (2.9.3)
     rack (1.6.1)
