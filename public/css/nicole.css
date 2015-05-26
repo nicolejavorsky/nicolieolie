@@ -13,13 +13,13 @@ html, body {
 }
 
 #logo {
-	padding: 5%;
+	padding: 1%;
 	text-align: left;
 	color: #A5C4A4;
 }
 
 #logo h1 {
-	font-size: 120px;
+	font-size: 72px;
 }
 
 .btn-social-icon {
