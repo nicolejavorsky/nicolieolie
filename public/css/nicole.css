@@ -16,7 +16,10 @@ html, body {
 	padding: 5%;
 	text-align: left;
 	color: #A5C4A4;
-	font: 72px;
+}
+
+#logo h1 {
+	font-size: 120px;
 }
 
 .btn-social-icon {
