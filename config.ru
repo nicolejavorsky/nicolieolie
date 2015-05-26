@@ -4,4 +4,4 @@ $logger       = Logger.new(STDOUT)
 $logger.level = Logger.const_get ENV['LOG_LEVEL'] || 'DEBUG'
 
 require './app'
-run nicolieolie::Application
+run Nicolieolie::Application

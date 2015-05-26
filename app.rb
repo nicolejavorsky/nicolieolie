@@ -1,6 +1,6 @@
 require 'sinatra'
 
-module nicolieolie
+module Nicolieolie
   class Application < Sinatra::Base
 
     configure do
