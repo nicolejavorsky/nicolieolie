@@ -1,3 +1,7 @@
+html, body {
+	font-family: 'Amatic SC', cursive;
+}
+
 #intro {
 	background: url('/images/home-nicole.jpg') no-repeat center center fixed;
 	width: 100%;
@@ -19,7 +23,7 @@
 }
 
 .btn-social-icon {
-	color: #C1E6CC;
+	color: #A5C4A4;
 }
 
 .social {
@@ -29,7 +33,7 @@
 
 .social .btn:hover {
 	background: #fff; 
-	color: #C1E6CC;
+	color: #A5C4A4;
 }
 
 .social {
@@ -39,7 +43,7 @@
 	font-size: 40px;
 }
 .social a {
-	color: #C1E6CC;
+	color: #A5C4A4;
 	text-decoration: none;
 }
 .social a:hover {
