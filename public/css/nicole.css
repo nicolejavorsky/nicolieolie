@@ -13,7 +13,7 @@ html, body {
 }
 
 #logo {
-	padding: 1%;
+	padding: 2%;
 	text-align: left;
 	color: #A5C4A4;
 }
@@ -31,7 +31,8 @@ h3 {
 	text-align: center;
 	padding: 5%;
 	position: absolute;
-	top: 350px;
+	top: 400px;
+	color: #707070;
 }
 
 .btn-social-icon {
