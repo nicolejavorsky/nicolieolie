@@ -1,5 +1,5 @@
 .btn-social-icon {
-	color: white;
+	color: #C1E6CC;
 }
 
 .social {
@@ -8,8 +8,8 @@
 }
 
 .social .btn:hover {
-	background: #652c90; 
-	color: #fff;
+	background: #fff; 
+	color: #C1E6CC;
 }
 
 .social {
@@ -19,9 +19,9 @@
 	font-size: 40px;
 }
 .social a {
-	color: #fff;
+	color: #C1E6CC;
 	text-decoration: none;
 }
 .social a:hover {
-	color: #C1E6CC;
+	color: #fff;
 }
