@@ -24,7 +24,7 @@ html, body {
 }
 
 h3 {
-	font-size: 42px;
+	font-size: 36px;
 }
 
 #tagline {
@@ -39,11 +39,6 @@ h3 {
 	color: #A5C4A4;
 }
 
-.social {
-	text-align: right;
-	padding: 5%;
-}
-
 .social .btn:hover {
 	background: #fff; 
 	color: #A5C4A4;
@@ -52,8 +47,10 @@ h3 {
 .social {
 	position: absolute;
 	left: 186px;
-	top: 20px;
-	font-size: 40px;
+	top: 28px;
+	font-size: 56px;
+	text-align: right;
+	padding: 2%;
 }
 .social a {
 	color: #A5C4A4;
