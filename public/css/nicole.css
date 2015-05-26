@@ -15,11 +15,8 @@ html, body {
 #logo {
 	padding: 5%;
 	text-align: left;
-}
-
-#logo img {
-	height: 200px;
-	width: auto;
+	color: #A5C4A4;
+	font: 72px;
 }
 
 .btn-social-icon {
