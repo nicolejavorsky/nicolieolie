@@ -8,6 +8,11 @@
   background-size: cover;
 }
 
+#logo {
+	text-align: center;
+	padding: 5%;
+}
+
 #logo img {
 	height: 200px;
 	width: auto;
