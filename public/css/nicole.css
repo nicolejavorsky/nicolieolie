@@ -1,5 +1,5 @@
 html, body {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Abel', sans-serif;
 }
 
 #intro {
@@ -19,7 +19,19 @@ html, body {
 }
 
 #logo h1 {
+	font-family: 'Amatic SC', cursive;
 	font-size: 72px;
+}
+
+h3 {
+	font-size: 42px;
+}
+
+#tagline h3 {
+	text-align: center;
+	padding: 5%;
+	position: absolute;
+	top: 500px;
 }
 
 .btn-social-icon {
