@@ -1,0 +1,27 @@
+.btn-social-icon {
+	color: white;
+}
+
+.social {
+	text-align: right;
+	padding: 5%;
+}
+
+.social .btn:hover {
+	background: #652c90; 
+	color: #fff;
+}
+
+.social {
+	position: absolute;
+	left: 186px;
+	top: 20px;
+	font-size: 40px;
+}
+.social a {
+	color: #fff;
+	text-decoration: none;
+}
+.social a:hover {
+	color: #C1E6CC;
+}
