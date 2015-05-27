@@ -68,6 +68,25 @@ p {
 	color: #fff;
 }
 
+p a:link {
+	color: #A5C4A4;
+	text-decoration: none;
+}
+
+p a:visited {
+	color: #A5C4A4;	
+}
+
+p a:active {
+	color: black;
+	font-weight: bold;
+}
+
+p a:hover {
+	color: black;
+	font-weight: bold;
+}
+
 footer {
 	background-color: #707070;
 	padding: 1%;
