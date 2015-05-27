@@ -14,6 +14,7 @@ html, body {
 
 #about {
 	background-color: #A5C4A4;
+	width: 100%;
 }
 
 #logo {
@@ -29,6 +30,11 @@ html, body {
 
 h3 {
 	font-size: 36px;
+}
+
+p {
+	font-size: 24px;
+	padding: 5%;
 }
 
 #tagline {
