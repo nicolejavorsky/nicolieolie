@@ -12,6 +12,10 @@ html, body {
 	background-size: cover;
 }
 
+#about {
+	background-color: #A5C4A4;
+}
+
 #logo {
 	padding: 2%;
 	text-align: left;
@@ -62,4 +66,9 @@ h3 {
 
 footer {
 	background-color: #707070;
+	padding: 1%;
+}
+
+h4 {
+	color: #A5C4A4;
 }
