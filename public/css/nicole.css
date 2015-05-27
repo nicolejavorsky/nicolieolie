@@ -29,7 +29,7 @@ h1 {
 	font-size: 72px;
 }
 
-#name {
+.name {
 	text-align: center;
 	color: white;
 }
